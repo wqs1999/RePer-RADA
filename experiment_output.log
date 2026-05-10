@@ -1,13 +1,0 @@
-======================================================================
-RPTF Training Experiment on Synthetic ETTh1 Data
-======================================================================
-
-[Dataset] (Subset for CPU demo)
-  Train: 2000 samples (125 batches)
-  Val:   500 samples (32 batches)
-  Test:  500 samples (32 batches)
-[RPTF] Device: cuda:cpu
-[RPTF] Pooling kernels: [1, 4, 8]
-[RPTF] Period list: [24]
-[RPTF] Num scales: 3
-Loading weights:   0%|          | 0/21 [00:00<?, ?it/s]Loading weights: 100%|██████████| 21/21 [00:00<00:00, 34595.59it/s]
